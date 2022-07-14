@@ -1,2 +1,2 @@
-# M-tricas
+# Métricas
 Como funcionam as métricas?
